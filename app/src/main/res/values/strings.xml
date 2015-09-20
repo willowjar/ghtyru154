@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eventful</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="our_icon">Eventful</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="empty"></string>
+    <string name="event_location">EventLocation</string>
+    <string name="event_time">EventTime</string>
+    <string name="event_one_line_description">descrption</string>
+    <string name="event_title">eventTitle</string>
+</resources>
